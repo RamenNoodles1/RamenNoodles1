@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ⌨️ Languages/Databases
 
-Java Node.js PHP HTML CSS MariaDB MySQL PostgreSQL MongoDB
+Java Node.js  HTML CSS   MongoDB
